@@ -7,17 +7,3 @@ fe00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
-
-# Block these distractions
-0.0.0.0       twitter.com
-0.0.0.0       www.twitter.com
-0.0.0.0       youtube.com
-0.0.0.0       www.youtube.com
-0.0.0.0       reddit.com
-0.0.0.0       www.reddit.com
-0.0.0.0       facbook.com
-0.0.0.0       www.facebook.com
-0.0.0.0       news.ycombinator.com
-0.0.0.0       www.news.ycombinator.com
-0.0.0.0       twitch.com
-0.0.0.0       www.twitch.com
